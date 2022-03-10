@@ -1,4 +1,6 @@
+![man-destroys-pc-harold-slikk-new](https://user-images.githubusercontent.com/88296644/157762813-8aa12b9a-6ff5-4638-b6fb-368b4fca0a98.gif)
 # DELETE-EVERYTHING
+
 DON'T RUN THIS ON YOUR COMPUTER UNLESS YOU WANT TO SECURELY ERASE EVERYTHING ON YOUR LINUX  PC!!!!!!
 
 DONT RUN THIS, I WARNED YOU! 
