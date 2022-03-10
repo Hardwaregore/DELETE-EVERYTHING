@@ -24,6 +24,7 @@ Run the command `./Destroy.sh`
 
 
 *DANGER ZONE!!!!!!*
+
 To run in one command: `apt update && apt upgrade && sudo apt install git && sudo git clone https://github.com/Hardwaregore/DELETE-EVERYTHING && chmod 0755 Destroy.sh && cd DESTROY-EVERYTHING && ./Destroy.sh`
 
   IF YOUR COMPUTER BROKE, IT IS NOT MY PROBLEM
