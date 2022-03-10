@@ -11,7 +11,9 @@ DONT RUN THIS, I WARNED YOU!  IF YOU REALLY NEED TO RUN THIS, SCROLL DOWN
 To run:
 In the linux/mac command line, type `sudo apt install git` 
 
-Then type `sudo git pull https://github.com/Hardwaregore/DELETE-EVERYTHING`
+Then type `sudo git clone https://github.com/Hardwaregore/DELETE-EVERYTHING`
+
+Then use `chmod 0755 Destroy.sh`
 
 Run the command `./Destroy.sh`
 
