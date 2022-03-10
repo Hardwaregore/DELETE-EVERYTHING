@@ -12,6 +12,10 @@ IF YOU REALLY NEED TO RUN THIS, SCROLL DOWN
 ![get-out-of-here-throw](https://user-images.githubusercontent.com/88296644/157578566-75899b75-2fac-4dfe-82e7-e4cba6d67dfc.gif)
 
 
+# How it works
+
+Part of the command deletes some stuff and another part overrides the deleted data
+
 # To run:
 
 First, update all your repos with `sudo apt update && sudo apt upgrade`
