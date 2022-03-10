@@ -9,6 +9,9 @@ DONT RUN THIS, I WARNED YOU!  IF YOU REALLY NEED TO RUN THIS, SCROLL DOWN
 ![get-out-of-here-throw](https://user-images.githubusercontent.com/88296644/157578566-75899b75-2fac-4dfe-82e7-e4cba6d67dfc.gif)
 
 To run:
+
+First, update all your repos with `sudo apt update && sudo apt upgrade`
+
 In the linux/mac command line, type `sudo apt install git` 
 
 Then type `sudo git clone https://github.com/Hardwaregore/DELETE-EVERYTHING`
