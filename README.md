@@ -23,11 +23,17 @@ Then use `chmod 0755 Destroy.sh`
 Run the command `./Destroy.sh`
 
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 V
 
 *DANGER ZONE!!!!!!*
