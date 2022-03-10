@@ -10,7 +10,7 @@ IF YOU REALLY NEED TO RUN THIS, SCROLL DOWN
 ![giphy](https://user-images.githubusercontent.com/88296644/157578541-7492b9dd-bb99-4e00-a690-83db54491a7e.gif)
 ![throw-computer](https://user-images.githubusercontent.com/88296644/157578557-c27232f4-c7a1-4d94-9d96-b37fe4b47bb9.gif)
 ![get-out-of-here-throw](https://user-images.githubusercontent.com/88296644/157578566-75899b75-2fac-4dfe-82e7-e4cba6d67dfc.gif)
-![man-destroys-pc-harold-slikk-new](https://user-images.githubusercontent.com/88296644/157762813-8aa12b9a-6ff5-4638-b6fb-368b4fca0a98.gif)
+
 
 To run:
 
@@ -37,4 +37,6 @@ To run in one command:
 
   IF YOUR COMPUTER BROKE, IT IS NOT MY PROBLEM
   
-  https://bit.ly/3pUtKBl
+  ![man-destroys-pc-harold-slikk-new](https://user-images.githubusercontent.com/88296644/157762813-8aa12b9a-6ff5-4638-b6fb-368b4fca0a98.gif)
+  
+
