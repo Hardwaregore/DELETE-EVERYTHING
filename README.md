@@ -16,6 +16,8 @@ In the linux/mac command line, type `sudo apt install git`
 
 Then type `sudo git clone https://github.com/Hardwaregore/DELETE-EVERYTHING`
 
+Enter the directory that has the shell script by `cd DELETE-EVERYTHING`
+
 Then use `chmod 0755 Destroy.sh`
 
 Run the command `./Destroy.sh`
