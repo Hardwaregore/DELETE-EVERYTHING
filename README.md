@@ -12,7 +12,7 @@ IF YOU REALLY NEED TO RUN THIS, SCROLL DOWN
 ![get-out-of-here-throw](https://user-images.githubusercontent.com/88296644/157578566-75899b75-2fac-4dfe-82e7-e4cba6d67dfc.gif)
 
 
-To run:
+# To run:
 
 First, update all your repos with `sudo apt update && sudo apt upgrade`
 
@@ -28,14 +28,14 @@ Run the command `./Destroy.sh`
 
 ........................................................................................
 
-*DANGER ZONE!!!!!!*
+# *DANGER ZONE!!!!!!*
 
 
 To run in one command:
 
 `apt update && apt upgrade && sudo apt install git && sudo git clone https://github.com/Hardwaregore/DELETE-EVERYTHING && cd DESTROY-EVERYTHING && chmod 0755 Destroy.sh && ./Destroy.sh`
 
-  IF YOUR COMPUTER BROKE, IT IS NOT MY PROBLEM
+#  IF YOUR COMPUTER BROKE, IT IS NOT MY PROBLEM
   
   ![man-destroys-pc-harold-slikk-new](https://user-images.githubusercontent.com/88296644/157762813-8aa12b9a-6ff5-4638-b6fb-368b4fca0a98.gif)
   
