@@ -9,7 +9,9 @@ DONT RUN THIS, I WARNED YOU!  IF YOU REALLY NEED TO RUN THIS, SCROLL DOWN
 ![get-out-of-here-throw](https://user-images.githubusercontent.com/88296644/157578566-75899b75-2fac-4dfe-82e7-e4cba6d67dfc.gif)
 
 To run:
-In the linux/mac command line, type `sudo git pull https://github.com/Hardwaregore/DELETE-EVERYTHING`
+In the linux/mac command line, type `sudo apt install git` 
+
+Then type `sudo git pull https://github.com/Hardwaregore/DELETE-EVERYTHING`
 
 Run the command `./Destroy.sh`
 
