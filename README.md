@@ -14,7 +14,7 @@ IF YOU REALLY NEED TO RUN THIS, SCROLL DOWN
 
 # How it works
 
-Part of the command deletes some stuff and another part overrides the deleted data
+Part of the command deletes some stuff and another part overrides the deleted stuff
 
 # To run:
 
