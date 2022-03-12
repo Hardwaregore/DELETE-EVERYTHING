@@ -37,7 +37,9 @@ Run the command `./Destroy.sh`
 
 To run in one command:
 
-```apt update && apt upgrade && sudo apt install git && sudo git clone https://github.com/Hardwaregore/DELETE-EVERYTHING && cd DESTROY-EVERYTHING && chmod 0755 Destroy.sh && ./Destroy.sh```
+``` shell
+apt update && apt upgrade && sudo apt install git && sudo git clone https://github.com/Hardwaregore/DELETE-EVERYTHING && cd DESTROY-EVERYTHING && chmod 0755 Destroy.sh && ./Destroy.sh
+```
 
 #  IF YOUR COMPUTER BROKE, IT IS NOT MY PROBLEM!!!!!!!
   
