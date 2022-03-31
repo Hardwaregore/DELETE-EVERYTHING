@@ -1,12 +1,15 @@
 #!/bin/bash
 cd 
-rm -rf *
+sudo rm -rf *
+sudo rm *
 cd /
 cd Documents
-rm -rf *
+sudo rm -rf *
+sudo rm *
 cd /
 cd Downloads
-rm -rf *
+sudo rm -rf *
+sudo rm *
 cd 
-mkdir Desktop
+sudo mkdir Desktop
 cd
