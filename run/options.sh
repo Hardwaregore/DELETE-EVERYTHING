@@ -10,7 +10,7 @@ echo "X: Abort and self destruct"
 while true; do
     read -p "Please choose an option $ " yesno
     case $yesno in
-    [Aa]* ) source options.sh && ClearPersonalFiles.sh;;
+    [Aa]* ) exit && source ClearPersonalFiles.sh;;
     [Bb]* ) exit && source clear.sh;;
     [Cc]* ) exit && source destroy.sh;;
     [Dd]* ) exit && source nuke.sh;;
