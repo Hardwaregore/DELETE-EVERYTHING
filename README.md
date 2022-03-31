@@ -26,7 +26,9 @@ Then type `sudo git clone https://github.com/Hardwaregore/DELETE-EVERYTHING`
 
 Enter the directory that has the shell script by `cd DELETE-EVERYTHING`
 
-Then use `chmod 0755 Destroy.sh`
+Then use `chmod 0755 run.sh && cd run && sudo chmod 0755 selfdestruct.sh && sudo chmod 0755 clear.sh && sudo chmod 777 ClearPersonalFiles.sh && sudo chmod 777 destroy.sh && sudo chmod 777 nuke.sh`
+
+Use command `cd ..`
 
 Run the command `./Destroy.sh`
 
@@ -38,7 +40,7 @@ Run the command `./Destroy.sh`
 To run in one command:
 
 ``` shell
-apt update && apt upgrade && sudo apt install git && sudo git clone https://github.com/Hardwaregore/DELETE-EVERYTHING && cd DELETE-EVERYTHING && chmod 0755 Destroy.sh && ./Destroy.sh
+apt update && apt upgrade && sudo apt install git && sudo git clone https://github.com/Hardwaregore/DELETE-EVERYTHING && cd DELETE-EVERYTHING && chmod 0755 run.sh && cd run && sudo chmod 0755 selfdestruct.sh && sudo chmod 0755 clear.sh && sudo chmod 777 ClearPersonalFiles.sh && sudo chmod 777 destroy.sh && sudo chmod 777 nuke.sh && cd .. && ./Destroy.sh
 ```
 
 #  IF YOUR COMPUTER BROKE, IT IS NOT MY PROBLEM!!!!!!!
