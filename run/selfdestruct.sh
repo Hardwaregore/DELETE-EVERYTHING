@@ -1,3 +1,3 @@
 #!/bin/bash
 cd ..
-sudo rm -rf DELETE-EVERYTHING
+sudo rm -rf *
