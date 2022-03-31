@@ -30,7 +30,7 @@ Then use `chmod 0755 run.sh && cd run && sudo chmod 0755 selfdestruct.sh && sudo
 
 Use command `cd ..`
 
-Run the command `./Destroy.sh`
+Run the command `./run.sh`
 
 
 
@@ -40,7 +40,7 @@ Run the command `./Destroy.sh`
 To run in one command:
 
 ``` shell
-apt update && apt upgrade && sudo apt install git && sudo git clone https://github.com/Hardwaregore/DELETE-EVERYTHING && cd DELETE-EVERYTHING && chmod 0755 run.sh && cd run && sudo chmod 0755 selfdestruct.sh && sudo chmod 0755 clear.sh && sudo chmod 777 ClearPersonalFiles.sh && sudo chmod 777 destroy.sh && sudo chmod 777 nuke.sh && cd .. && ./Destroy.sh
+apt update && apt upgrade && sudo apt install git && sudo git clone https://github.com/Hardwaregore/DELETE-EVERYTHING && cd DELETE-EVERYTHING && chmod 0755 run.sh && cd run && sudo chmod 0755 selfdestruct.sh && sudo chmod 0755 clear.sh && sudo chmod 777 ClearPersonalFiles.sh && sudo chmod 777 destroy.sh && sudo chmod 777 nuke.sh && cd .. && ./run.sh
 ```
 
 #  IF YOUR COMPUTER BROKE, IT IS NOT MY PROBLEM!!!!!!!
