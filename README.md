@@ -47,6 +47,6 @@ sudo git clone https://github.com/Hardwaregore/DELETE-EVERYTHING && cd DELETE-EV
   
   ![man-destroys-pc-harold-slikk-new](https://user-images.githubusercontent.com/88296644/157762813-8aa12b9a-6ff5-4638-b6fb-368b4fca0a98.gif)
   
-  ![9B720336-4913-42A5-ADE3-7A4CA5C5138B](https://user-images.githubusercontent.com/88296644/161291089-e65ad733-8ccc-45cc-97ca-60025b5d1ee6.gif)
+  ![9B720336-4913-42A5-ADE3-7A4CA5C5138B](https://user-images.githubusercontent.com/88296644/161291089-e65ad733-8ccc-45cc-97ca-60025b5d1ee6.jpeg)
 
   
