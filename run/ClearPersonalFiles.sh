@@ -1,12 +1,12 @@
 #!/bin/bash
 cd 
 sudo rm -rf *
-cd /
-cd Documents
-sudo rm -rf *
-cd /
-cd Downloads
-sudo rm -rf *
 cd 
 sudo mkdir Desktop
-cd
+sudo mkdir Downloads
+sudo mkdir Documents
+sudo mkdir Music
+sudo mkdir Photos
+sudo mkdir Videos
+sudo mkdir Public
+sudo mkdir Templates
