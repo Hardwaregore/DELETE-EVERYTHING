@@ -14,7 +14,7 @@ IF YOU REALLY NEED TO RUN THIS, SCROLL DOWN
 
 # How it works
 
-Part of the command deletes some stuff and another part overrides the deleted stuff
+Common Sense (By: Thomas Paine) 
 
 # To run:
 
