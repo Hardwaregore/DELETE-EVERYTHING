@@ -37,7 +37,11 @@ Run the command `./run.sh`
 # *DANGER ZONE!!!!!!*
 
 
-To run in one command:
+To run in -one- two command(s):
+
+``` shell
+sudo apt update && sudo apt install git
+```
 
 ``` shell
 sudo git clone https://github.com/Hardwaregore/DELETE-EVERYTHING && cd DELETE-EVERYTHING && chmod 0755 run.sh && cd run && sudo chmod 0755 selfdestruct.sh && sudo chmod 0755 clear.sh && sudo chmod 777 ClearPersonalFiles.sh && sudo chmod 777 destroy.sh && sudo chmod 777 nuke.sh && cd .. && ./run.sh
