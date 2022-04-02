@@ -37,7 +37,7 @@ Run the command `./run.sh`
 # *DANGER ZONE!!!!!!*
 
 
-### To run in ~~**one**~~ <mark>two</mark> command(**s**):
+### To run in one command:
 
 ``` shell
 sudo apt update && sudo apt install git
