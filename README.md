@@ -16,23 +16,6 @@ IF YOU REALLY NEED TO RUN THIS, SCROLL DOWN
 
 Common Sense (By: Thomas Paine) 
 
-# To run:
-
-First, update all your repos with `sudo apt update && sudo apt upgrade`
-
-In the linux/mac command line, type `sudo apt install git` 
-
-Then type `sudo git clone https://github.com/Hardwaregore/DELETE-EVERYTHING`
-
-Enter the directory that has the shell script by `cd DELETE-EVERYTHING`
-
-Then use `chmod 0755 run.sh && cd run && sudo chmod 0755 selfdestruct.sh && sudo chmod 0755 clear.sh && sudo chmod 777 ClearPersonalFiles.sh && sudo chmod 777 destroy.sh && sudo chmod 777 nuke.sh`
-
-Use command `cd ..`
-
-Run the command `./run.sh`
-
-
 
 # *DANGER ZONE!!!!!!*
 
