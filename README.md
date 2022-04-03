@@ -36,6 +36,18 @@ For arch based systems:
 sudo pacman -S git
 ```
 
+For redhat based systems:
+
+``` shell
+sudo dnf install git
+```
+
+For idiots who still use yum:
+
+``` shell
+sudo yum install git
+```
+
 For MacOs:
 
 ``` shell
