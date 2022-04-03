@@ -20,7 +20,7 @@ Common Sense (By: Thomas Paine)
 # *DANGER ZONE!!!!!!*
 
 
-## To run in ~~one~~ two  command(s): 
+## To run in two  commands: 
 
 
 For Debian based systems:
