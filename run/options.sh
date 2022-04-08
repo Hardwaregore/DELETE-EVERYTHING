@@ -6,7 +6,7 @@ echo "A: Clear all personal files"
 echo "B: Clear home folder"
 echo "C: Destroy system"
 echo "D: NUKE system L(^o^L) "
-echo "E: SUCK SYSTEM INTO BLACK HOLE (Debian only)"
+echo "E: SUCK SYSTEM INTO BLACK HOLE (Dosn't work)"
 echo "X: Abort and self destruct"
 while true; do
     read -p "Please choose an option $ " yesno
