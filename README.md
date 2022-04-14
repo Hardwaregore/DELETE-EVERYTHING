@@ -57,7 +57,7 @@ brew install git
 To Run:
 
 ``` shell
-sudo git clone https://github.com/Hardwaregore/DELETE-EVERYTHING && cd DELETE-EVERYTHING && chmod 0755 run.sh && chmod 777 run && ./run.sh
+sudo git clone https://github.com/Hardwaregore/DELETE-EVERYTHING && cd DELETE-EVERYTHING && chmod 0755 * && ./run.sh
 ```
 
 #  IF YOUR COMPUTER BROKE, IT IS NOT MY PROBLEM!!!!!!!
