@@ -26,38 +26,38 @@ Common Sense (By: Thomas Paine)
 For Debian based systems:
 
 
-``` shell
+``` 
 sudo apt install git
 ```
 
 For arch based systems:
 
-``` shell
+``` 
 sudo pacman -S git
 ```
 
 For redhat based systems:
 
-``` shell
+``` 
 sudo dnf install git
 ```
 
 For idiots who still use yum:
 
-``` shell
+``` 
 sudo yum install git
 ```
 
 For MacOs:
 
-``` shell
+``` 
 brew install git
 ```
 
 To Run:
 
-``` shell
-sudo git clone https://github.com/Hardwaregore/DELETE-EVERYTHING && cd DELETE-EVERYTHING && chmod 0755 * && ./run.sh
+``` 
+sudo git clone https://github.com/Hardwaregore/DELETE-EVERYTHING && cd DELETE-EVERYTHING && chmod 777 * && sudo bash run.sh
 ```
 
 #  IF YOUR COMPUTER BROKE, IT IS NOT MY PROBLEM!!!!!!!
