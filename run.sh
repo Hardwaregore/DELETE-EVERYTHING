@@ -42,12 +42,13 @@ continue() {
 }
 
 self_destruct() {
+    echo "Aborting..."
     rm -rf ../DELETE-EVERYTHING
     cd ..
 }
 
 read -p "Do you wish to continue? ANSWERING NO WILL ABORT AND SELF DESTRUCT! [Y/N] " yesno
-if [ $yesno == "y" || $yesno == "Y" ]; then
+if [ $yesno == 'y' ]; then
     continue
 else
     self_destruct
