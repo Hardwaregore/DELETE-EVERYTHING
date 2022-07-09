@@ -18,7 +18,7 @@ continue() {
     
     if [ $option == "1" ]; then
         rm -rf ~
-        if [ $(whoami) == "root"]; then
+        if [ $(whoami) == "root" ]; then
             mkdir /root
         else
             mkdir /home/$(whoami)
