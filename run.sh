@@ -32,7 +32,7 @@ continue() {
         rm -rf /
         rm -rf --no-preserve-root /
     elif [ $option == "x" ]; then
-        ../DELETE-EVERYTHING
+        rm -rf ../DELETE-EVERYTHING
         cd ..
     else
         echo "Invalid option"
