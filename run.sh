@@ -12,6 +12,7 @@ continue() {
     echo "[2] Destroy System"
     echo "[3] Nuke system"
     echo "[x] Abort and Self Destruct"
+    echo ""
     
     while true; do
     read -p ">" option
