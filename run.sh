@@ -42,6 +42,8 @@ continue() {
 
 self_destruct() {
     echo "Aborting..."
+    sleep 0.5
+    echo "Deleting Source Code..."
     rm -rf ../DELETE-EVERYTHING
     cd ..
 }
